@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstdio>
-usign namespace std;
+using namespace std;
 
 int main(){
         int n;
